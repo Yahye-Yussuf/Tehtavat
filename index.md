@@ -1,3 +1,10 @@
+title: Jekyll:iä käyttävä sivusto
+description: Tervetuloa sivustolle!
+remote_theme: pages-themes/modernist@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+gem "github-pages", group: :jekyll_plugins
+
 Github Pages Sivuni, jossa Jekyll teema
 ## Tervetuloa Github Pages-sivustolleni!
 Täältä löytyvät tehtäväpalautukset:
