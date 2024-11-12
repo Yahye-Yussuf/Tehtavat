@@ -10,4 +10,4 @@ Täältä löytyvät tehtäväpalautukset:
 - [Viikko 6]
 - Harjoitustyö
 
-- jekyll-remote-theme
+
