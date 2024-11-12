@@ -9,3 +9,5 @@ Täältä löytyvät tehtäväpalautukset:
 - [Viikko 5]
 - [Viikko 6]
 - Harjoitustyö
+
+- jekyll-remote-theme
