@@ -1,5 +1,5 @@
 
-Github Pages Sivuni, jossa Jekyll teema
+Github Pages Sivuni, jossa Jekyll teema "Architect"
 ## Tervetuloa Github Pages-sivustolleni!
 Täältä löytyvät tehtäväpalautukset:
 - [Viikko 1](index.html).
