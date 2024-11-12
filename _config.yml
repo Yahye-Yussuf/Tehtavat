@@ -1,8 +1,6 @@
 title: Jekyll:iä käyttävä sivusto
 description: Tervetuloa sivustolle!
-remote_theme: pages-themes/cayman@v0.2.0
-theme: jekyll-remote-theme
-
-header_pages:
-- Vko1.md
-- Vko2.md
+remote_theme: pages-themes/modernist@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+gem "github-pages", group: :jekyll_plugins
